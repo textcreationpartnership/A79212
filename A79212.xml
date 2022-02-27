@@ -1,0 +1,197 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties gracious letter and declaration, sent to the House of Peers, by Sir John Greenvill, Knight. from Breda: and read in the House the first of May, 1660 Die Martis, 1⁰ Maii, 1660. Ordered by the Lords in Parliament assembled, that his Majesties gracious letter and declaration be forthwith printed and published, for the service of the House and satisfaction of the kingdom: and that no person do presume to re-print either of them. Jo. Browne Cleric. Parliamentorum.</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79212</idno>
+            <idno type="STC">Wing C3015</idno>
+            <idno type="STC">ESTC R223541</idno>
+            <idno type="EEBO-CITATION">99896918</idno>
+            <idno type="PROQUEST">99896918</idno>
+            <idno type="VID">133464</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79212)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 133464)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2457:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties gracious letter and declaration, sent to the House of Peers, by Sir John Greenvill, Knight. from Breda: and read in the House the first of May, 1660 Die Martis, 1⁰ Maii, 1660. Ordered by the Lords in Parliament assembled, that his Majesties gracious letter and declaration be forthwith printed and published, for the service of the House and satisfaction of the kingdom: and that no person do presume to re-print either of them. Jo. Browne Cleric. Parliamentorum.</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+                  <author>England and Wales. Parliament. House of Lords. Proceedings. 1660-05-01.</author>
+               </titleStmt>
+               <extent>14, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by John Macock, and Francis Tyton, printers to the House of Lords,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Declaration dated at end: "... at Breda this 4/14 day of April 1660...".</note>
+                  <note>The first leaf is blank except for royal arms on verso; the last leaf is blank.</note>
+                  <note>In this edition, line 6 of title ends: 'peers,'.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>Church of England --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="royal_blazon">
+            <pb facs="tcp:133464:1" rendition="simple:additions"/>
+            <pb facs="tcp:133464:1" rendition="simple:additions"/>
+            <pb facs="tcp:133464:2"/>
+            <p>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <head>C R</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:133464:2"/>
+            <p>HIS MAJESTIES Gracious Letter And DECLARATION, Sent to the Houſe of PEERS, By Sir <hi>John Greenvill,</hi> Knight.</p>
+            <p>From BREDA: And read in the Houſe the firſt of <hi>May,</hi> 1660.</p>
+            <p>Die Martis, 1<hi rend="sup">o</hi> Maii, 1660.</p>
+            <p>ORdered by the Lords in Parliament Aſſembled, <hi>That His Majeſties Gracious Letter and Decla<g ref="char:EOLhyphen"/>ration be forthwith Printed and Publiſhed, for the Ser<g ref="char:EOLhyphen"/>vice of the Houſe and Satisfaction of the Kingdom: And that no Perſon do preſume to Re-Print either of them.</hi>
+            </p>
+            <p>JO. BROWNE <hi>Cleric. Parliamentorum.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>John Macock,</hi> and <hi>Francis Tyton,</hi> Printers to the Houſe of Lords, 1660.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:133464:3"/>
+            <pb n="5" facs="tcp:133464:3"/>
+            <head>TO THE SPEAKER OF THE Houſe of Peers, And to the LORDS There Aſſembled.</head>
+            <opener>
+               <signed>
+                  <hi>CHARLES</hi> R.</signed>
+            </opener>
+            <p>RIght Truſty and Right Well-Beloved Coſins, and Right Tru<g ref="char:EOLhyphen"/>ſty and Well-Beloved Coſins, and Truſty and Right Well-Be<g ref="char:EOLhyphen"/>loved,
+<pb n="6" facs="tcp:133464:4"/>We Greet you Well: We can<g ref="char:EOLhyphen"/>not have a better reaſon to promiſe Our Self an end of Our Common Suffer<g ref="char:EOLhyphen"/>ings and Calamities, and that Our Own Juſt Power and Authority will with Gods Bleſ<g ref="char:EOLhyphen"/>ſing be Reſtored to Us, then that We hear You are again acknowledged to have that Authority and Juriſdiction, which hath al<g ref="char:EOLhyphen"/>waies belonged to You, by Your Birth, and the Fundamental Laws of the Land: And VVe have thought it very fit and ſafe for Us, to call to you for your help in the compoſing the confounding Diſtempers and Diſtracti<g ref="char:EOLhyphen"/>ons of the Kingdom, in which your Sufferings are next to thoſe VVe have undergone Our Self; And therefore you cannot but be the moſt proper Counſellors for removing thoſe Miſchiefs, and for preventing the like for the future: How great a Truſt We repoſe in you for the Procuring and Eſtabliſhing a Bleſſed Peace and Security for the Kingdome; will appear to You by Our Encloſed Declara<g ref="char:EOLhyphen"/>tion; which Truſt, VVe are moſt confi<g ref="char:EOLhyphen"/>dent You will diſcharge with that Juſtice
+<pb n="7" facs="tcp:133464:4"/>and VViſdome, that becomes You, and muſt alwayes be expected from You; and that upon your Experience, how one Violation Succeeds another, when the known Rela<g ref="char:EOLhyphen"/>tions, and Rules of Juſtice, are once tranſ<g ref="char:EOLhyphen"/>greſſed, you will be as jealous for the Rights of the Crown, and for the Honour of your King, as for your Selves: And then you cannot but diſcharge your Truſt with good Succeſs, and provide for, and Eſtabliſh the Peace, Happineſs, and Ho<g ref="char:EOLhyphen"/>nour of King, Lords, and Commons, up<g ref="char:EOLhyphen"/>on that Foundation which can only ſup<g ref="char:EOLhyphen"/>port it, and VVe ſhall be all happy in each other: And as the whole Kingdome will bleſs God for you all, ſo VVe ſhall hold Our Self obliged in an eſpecial man<g ref="char:EOLhyphen"/>ner to thank you in particular, according to the Affection you ſhall expreſs towards Us: VVe need the leſs enlarge to you up<g ref="char:EOLhyphen"/>on this Subject, becauſe VVe have likewiſe writ to the Houſe of Commons, which VVe ſuppoſe they will Communicate to you: And VVe pray God to bleſs your joynt En<g ref="char:EOLhyphen"/>deavours
+<pb n="8" facs="tcp:133464:5"/>for the good of Us all; and ſo VVe bid you very heartily farewel. Given at our Court at <hi>Breda,</hi> this <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Day of <hi>April,</hi> 1660. In the Twelfth Year of our Reign.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="9" facs="tcp:133464:5"/>
+            <head>Charles R.</head>
+            <opener>
+               <signed>
+                  <seg rend="decorInit">C</seg>HARLES By the Grace of God King of <hi>England, Scotland, France,</hi> and <hi>Ireland,</hi> Defender of the Faith, &amp;c.</signed>
+               <salute>To all Our Lo<g ref="char:EOLhyphen"/>ving Subjects of what de<g ref="char:EOLhyphen"/>gree or quality ſoever, <hi>Gree<g ref="char:EOLhyphen"/>ting.</hi>
+               </salute>
+            </opener>
+            <p>If the generall Diſtraction and Confuſion which is ſpread over the whole Kingdome, doth not awaken all men to a deſire and longing, that thoſe wounds which have ſo many yeers toge<g ref="char:EOLhyphen"/>ther been kept bleeding, may be bound up, all We can ſay will be to no purpoſe. However af<g ref="char:EOLhyphen"/>ter
+<pb n="10" facs="tcp:133464:6"/>this long ſilence, We have thought it Our du<g ref="char:EOLhyphen"/>ty to Declare, How much We deſire to Contri<g ref="char:EOLhyphen"/>bute thereunto; and that as We can never give over the hope in good time to obtain the poſſeſ<g ref="char:EOLhyphen"/>ſion of that Right which God and Nature hath made Our Due; So We doe make it Our daily Suit to the Divine Providence, That He will in compaſsion to Us and Our Subjects, after ſo long Miſery and Sufferings, remit, and put Us into a quiet and peaceable poſſeſsion of that Our Right, with as little blood and dammage to Our people as is poſsible. Nor doe We deſire more to enjoy what is Ours, then that all Our Subjects may en<g ref="char:EOLhyphen"/>joy what by Law is theirs, by a full and entire Adminiſtration of Juſtice throughout the Land, and by extending Our Mercy where it is wanted and deſerved.</p>
+            <p>And to the End that the feare of Puniſhment may not engage any conſcious to themſelves of what is paſſed, to a perſeverance in guilt for the future, by oppoſing the Quiet and Happineſſe of their Country in the Reſtoration both of King, Peers and People to their juſt, ancient, and Fun<g ref="char:EOLhyphen"/>damentall
+<pb n="11" facs="tcp:133464:6"/>Rights, We doe by theſe preſents De<g ref="char:EOLhyphen"/>clare, That We doe grant a Free and General Par<g ref="char:EOLhyphen"/>don, which We are ready upon demand to paſſe under Our Great Seal of <hi>England,</hi> to all Our Sub<g ref="char:EOLhyphen"/>jects of what degree or quality ſoever, who with<g ref="char:EOLhyphen"/>in forty dayes after the publiſhing hereof ſhall lay hold upon this Our Grace and Favour; and ſhall by any publick Act declare their doing ſo, and that they return to the Loyalty and obedi<g ref="char:EOLhyphen"/>ence of good Subjects: Excepting only ſuch per<g ref="char:EOLhyphen"/>ſons as ſhall hereafter be excepted by Parliament: Thoſe onely excepted, let all Our Subjects how faulty ſoever relie upon the Word of a King, ſo<g ref="char:EOLhyphen"/>lemnly given by this preſent Declaration, That no crime whatſoever committed againſt Us, or Our Royall Father before the publication of this, ſhall ever riſe in judgement, or be brought in queſtion againſt any of them, to the leaſt endammagement of them, either in their Lives, Liberties or Eſtates, or (as far forth as lyes in Our power) ſo much as to the prejudice of their Reputations, by any Reproach or term of diſtinction from the reſt of Our beſt Subjects. We deſiring and Ordaining that hence forward
+<pb n="12" facs="tcp:133464:7"/>all Notes of diſcord, ſeparation and difference of parties be utterly aboliſhed among all Our Sub<g ref="char:EOLhyphen"/>jects, whom We invite and conjure to a perfect Union among themſelves, under Our Protection, for the Re-ſettlement of Our juſt Rights and theirs in a Free Parliament, by which upon the Word of a King, We will be adviſed.</p>
+            <p>And becauſe the Paſsion and uncharitable<g ref="char:EOLhyphen"/>neſſe of the times have produced ſeverall Opi<g ref="char:EOLhyphen"/>nions in Religion, by which men are engaged in parties and animoſities againſt each other, which when they ſhall hereafter unite in a free<g ref="char:EOLhyphen"/>dom of converſation will be compoſed, or better underſtood: We do declare a Liberty to tender Conſciences; and that no man ſhall be diſquieted or call'd in queſtion for differences of opinion in matter of Religion, which doe not diſturbe the Peace of the Kingdom; And that We ſhall be ready to Conſent to ſuch an Act of Parliament, as upon mature delibera<g ref="char:EOLhyphen"/>tion ſhall be offered to Us for the full granting that Indulgence.</p>
+            <pb n="13" facs="tcp:133464:7"/>
+            <p>And becauſe in the continued diſtractions of ſo many yeares, and ſo many and great Re<g ref="char:EOLhyphen"/>volutions, many Grants and Purchaſes of E<g ref="char:EOLhyphen"/>ſtates have been made to, and by, many Of<g ref="char:EOLhyphen"/>ficers, Souldiers, and others, who are now poſſeſſed of the ſame, and who may be lya<g ref="char:EOLhyphen"/>ble to Actions at Law upon ſeverall Titles, We are likewiſe willing, That all ſuch Dif<g ref="char:EOLhyphen"/>ferences, and all things relating to ſuch Grants, Seals, and Purchaſes ſhall be de<g ref="char:EOLhyphen"/>termined in Parliament, which can beſt pro<g ref="char:EOLhyphen"/>vide for the juſt ſatisfaction of all men who are concerned.</p>
+            <p>And We doe further declare, That We will be ready to conſent to any Act or Acts of Parliament to the purpoſes aforeſaid, and for the full ſatisfaction of all Arreares due to the Officers and Souldiers of the Army under the Command of Generall <hi>Monck:</hi> And that they ſhall be received into Our Ser<g ref="char:EOLhyphen"/>vice upon as good pay and Conditions as they now enjoy.</p>
+            <pb n="14" facs="tcp:133464:8"/>
+            <closer>
+               <dateline>
+                  <hi>Given under Our Signe Manuall and Pri<g ref="char:EOLhyphen"/>vy Signet at Our Court at</hi> Breda <date>
+                     <hi>this</hi> 4/14 <hi>day of</hi> April 1660. <hi>in the twelfth year of Our Raign.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>John Macock</hi> and <hi>Francis Tyton,</hi> Printers to the Houſe of LORDS. 1660.</p>
+            <pb facs="tcp:133464:8"/>
+         </div>
+      </back>
+   </text>
+</TEI>
